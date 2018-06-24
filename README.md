@@ -3,6 +3,8 @@
 [![Build Status](https://travis-ci.org/dhruvdutt/sample-virtualized-list.svg)](https://travis-ci.org/dhruvdutt/sample-virtualized-list)
 [![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 
+#### Try live on [CodeSandbox](https://codesandbox.io/s/z8v7z6wvl) :rocket:
+
 #### Setup and Run :runner:
 
 ```bash
